@@ -1,0 +1,3 @@
+* Train by performing data augmentation by adding random deformation, random cropping, rotation and scale invariance
+* Perform tests using the seismic disorder attribute and see how it can be incorporated into the model
+* Try to augment the training process using GANs to generate test data.

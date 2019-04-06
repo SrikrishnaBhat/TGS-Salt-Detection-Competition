@@ -1,0 +1,5 @@
+model-tgs-salt-double-output-51-0.30-0.79.h5
+model-tgs-salt-double-output-34-0.25-0.73.h5
+model-tgs-salt-double-output-57-0.32-0.80.h5
+model-tgs-salt-double-output-35-0.26-0.73.h5
+model-tgs-salt-double-output-50-0.31-0.78.h5
